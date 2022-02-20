@@ -439,12 +439,12 @@ msgstr "ログイン"
 #: app/Gianism/Service/AbstractService.php:612
 #, php-format
 msgid "Log in with %s"
-msgstr "%sでログイン"
+msgstr "%sアカウントでログイン"
 
 #: app/Gianism/Service/AbstractService.php:651
 #, php-format
 msgid "Login with %s"
-msgstr "%sでログイン"
+msgstr "%sアカウントでログイン"
 
 #: app/Gianism/Service/AbstractService.php:698
 #, php-format
